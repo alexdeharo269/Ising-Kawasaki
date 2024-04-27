@@ -1,0 +1,7 @@
+/.vscode
+/build
+/ISING.exe
+/ising_data
+/magnet_data.dat
+/magnet_vs_t.dat
+/notes1.ipynb
